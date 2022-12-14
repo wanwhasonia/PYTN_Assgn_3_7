@@ -1,0 +1,7 @@
+Nama : Wanwha Sonia Putri Artha Soetjianto
+NO : PYTN-KS007-009
+
+ASSIGNMENT 3 (Analysis of Direct Marketing Campaign Portuguese Banking Institution)
+Tujuan Analisis yaitu memilih algoritma terbaik untuk memprediksi keberhasilan marketing
+
+link github : https://github.com/wanwhasonia/PYTN_Assgn_3_7.git 
